@@ -28,3 +28,4 @@ Assert statements of other severity levels will be reported, but not fail the wo
 for this assignment I used the project writeup to complete the assignment. Additionally Captain January assisted me in debugging and understanding my code. 
 
 ![Rippleadder](ICE03RippleAdderWaveform.png)
+![RippleadderRoughSketch](RippAddSketch.jpg)
